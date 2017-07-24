@@ -54,11 +54,11 @@ You will be marked on the following:
 
 # Marking Schedule
 
-## PART 1:
+## PART 1 (40%):
 * 80% - 8 points for each item you list - maximum of 80 (10 items)
 * 20% - made up of points for the peer review section
 
-## PART 2:
+## PART 2 (60%):
 * 40% - Applying the points of your research in your application
 * 20% - Input from the user to change the background color
 * 20% - Allow for the user to reset the app back to default setting (White background)
