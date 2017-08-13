@@ -75,6 +75,8 @@ For each problem you are required to create a flow diagram and add the relevant 
 `<student-id>-Task-Langauge`<br><br>
 **For example:<br>**
 `9980349-task01-csharp`
+or 
+`9980349-task01-js`
 
 **NOTE:  This assessment contributes to 30% to your overall grade in COMP.5202** 
 
@@ -82,11 +84,18 @@ For each problem you are required to create a flow diagram and add the relevant 
 
 <div style="page-break-after: always;"></div>
 
-1.	>Write a C# program to convert from Celsius degrees to Fahrenheit.<br>
-    The formula for the conversion is:  Fahrenheit = Celsius x 18 / 10 + 32
-	**(40 marks)**
+1.	>Write a C# program to convert from Celsius degrees to Fahrenheit and also Fahrenheit to Celcius<br>
+    
+    * Ask the user what conversion they want to do. Input F for Fahrenheit or C for Celsius is sufficient.
+    * The formula for the conversion of Celsius to Fahrenheit is:  Fahrenheit = Celsius x 9 / 5 + 32
+    * The formula for the conversion of Fahrenheit to Celsius is:  Celsius = Fahrenheit - 32 * 5 + 9
+    * Print the answer to the screen and end the program, no marks are given for using a loop.
 
-    # Flow Diagram + pseudocode (10 Marks)
+    Make sure that your answer is a `double` since divisions often have decimal places.
+    
+	**(45 marks)**
+
+    # Flow Diagram + pseudocode (15 Marks)
 
     Create your flow diagram and hand it in at the end of your test.
     Write Pseudocode in your code by using the comment syntax where needed.
@@ -129,7 +138,7 @@ For each problem you are required to create a flow diagram and add the relevant 
     Create your flow diagram and hand it in at the end of your test.
     Write Pseudocode in your code by using the comment syntax where needed.
 
-    # C# (20 Marks)
+    # C# (15 Marks)
 
     ## Example 
 
@@ -157,7 +166,7 @@ For each problem you are required to create a flow diagram and add the relevant 
 
     ```
 
-    # Javascript (20 Marks)
+    # Javascript (15 Marks)
      
     ## Example 
 
