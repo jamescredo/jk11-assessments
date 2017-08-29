@@ -6,7 +6,7 @@
 ## Semester 17B
 
 ## Assessment 2
-## Milestone 1: Friday September 8th 2017 @ 4pm
+## Milestone 1: Friday September 10th 2017 @ 4pm
 ## Milestone 2: Monday September 25th 2017 @ 4pm
 
 ### Submission: Git repository link pasted in Moodle
@@ -52,7 +52,7 @@ Note that this assessment will also test you on problem solving skills. You are 
 # Milestones
 
 This Assessment has 2 milestones: 
-* Milestone 1: Friday September 8th 2017 @ 4pm
+* Milestone 1: Friday September 10th 2017 @ 4pm
 * Milestone 2: Monday September 25th 2017 @ 4pm
 
 <br><br>
