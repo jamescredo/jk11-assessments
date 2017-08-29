@@ -1,4 +1,4 @@
-<link rel="stylesheets" href="../css/styles.css">
+<link rel="stylesheet" href="../css/styles.css">
 
 
 ![Toi Ohomai Logo](../images/toi-logo.jpg)
