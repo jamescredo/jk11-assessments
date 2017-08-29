@@ -16,13 +16,13 @@
 <br><br>
 # Learning Outcomes
 
-## Learning Outcome One:
+### Learning Outcome One:
 Understand why interactive and animated multimedia applications solve problems of low complexity.
 
-## Learning Outcome Two:
+### Learning Outcome Two:
 Understand and use key design principles of text, graphical images, video, animation and sound for multimedia content.
 
-## Learning Outcome Three:
+### Learning Outcome Three:
 Create an interactive and animated multimedia application suitable for Web or mobile devices.
 
 <br><br>
@@ -103,3 +103,5 @@ The pages in your project need to be linked to each other.
 | Item <hr> Description | Marks | Marks Allocated | Comments | 
 | :---: | --- | :---: | --- |
 | | | |
+
+TO BE RELEASED LATER
