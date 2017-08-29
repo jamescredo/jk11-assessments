@@ -3,7 +3,7 @@
 ![Toi Ohomai Logo](../images/toi-logo.jpg)
 
 # COMP5007 Intro to Multimedia
-# Semester 17B
+## Semester 17B
 
 ## Assessment 2
 ## Milestone 1: Friday September 8th 2017 @ 4pm
@@ -41,7 +41,8 @@ There are 2 main resources that you need to look through to get a better underst
 * Create a default MVC project and disect how it is all put together.
 * Look at some bootstrap websites and how they have been arranged. [Start Bootstrap](https://startbootstrap.com) is a good place to begin. You can download some templates and study them.
 
-<br><br>
+<div style="page-break-after: always;"></div>
+
 # Milestones
 
 This Assessment has 2 milestones: 
@@ -78,19 +79,22 @@ If you get your images / videos from anywhere, make sure they are referenced on 
 The pages in your project need to be linked to each other.
 
 <br><br>
+<div style="page-break-after: always;"></div>
 
 # Marking Guide:
 
 ## Milestone 1 - 30%
 
-| Item <hr> Description | Marks | Marks Allocated | Comments | 
-| :---: | --- | :---: | --- |
-| | | |
-| 1 <hr>  Team Roles Allocation | **10** Selected a leader, allocated sections to each person, setup a communication platform and structure. <hr> **5** Selected a leader, not everyone knows what to do, kinda guessing, just using slack, but haven't evaluated any other tools to help with this project. <hr> **0** No leader, no structure, nothing added to Slack | | |
-| 2 <hr> Collected Resources | **10** Clearly listed a number of resources that you are planning to use during your assessment, they are referenced to the to original content. <hr> **5** Vaguely an idea of what is being used, not at all or some resources are referenced <hr> **0** No resources are set or no references supplied  |  | |  |
-| 3 <hr> Wireframes | **10** 6 complete wireframes for each of the specified sizes, good detail and can clearly see what the template is going to look like <hr> **5** Up to 3 - 5 complete wireframes or incomplete wireframes <hr> **0** No wireframes or less than 3 supplied |  |  |
-| 4 <hr> Tools | **10** Clearly show what tools you are using for your project. List a reason why you chose it and add the tutor to your team if possible. <hr> **5** Just using slack, that is all we need. No effort in using other tools was made. <hr> **0** Slack channel not used at all and no record of other communication has been presented. |  |  |
-| 5 <hr> Journal Process | **Individual Marks** <hr> **10** Clearly show a history of the progress you are making with your team and a summary of the tools you chose and when they where selected. <hr> **5** One entry in a journal form explaining the progress of the team and shows some sort of plan towards the practical project <hr> **0** No journal supplied. | | |
+| Item <hr> Description | Marks |
+| :---: | --- |
+| |
+| 1 <hr>  Team Roles Allocation | **10** Selected a leader, allocated sections to each person, setup a communication platform and structure. <hr> **5** Selected a leader, not everyone knows what to do, kinda guessing, just using slack, but haven't evaluated any other tools to help with this project. <hr> **0** No leader, no structure, nothing added to Slack |
+| 2 <hr> Collected Resources | **10** Clearly listed a number of resources that you are planning to use during your assessment, they are referenced to the to original content. <hr> **5** Vaguely an idea of what is being used, not at all or some resources are referenced <hr> **0** No resources are set or no references supplied  |  | 
+| 3 <hr> Wireframes | **10** 6 complete wireframes for each of the specified sizes, good detail and can clearly see what the template is going to look like <hr> **5** Up to 3 - 5 complete wireframes or incomplete wireframes <hr> **0** No wireframes or less than 3 supplied |
+| 4 <hr> Tools | **10** Clearly show what tools you are using for your project. List a reason why you chose it and add the tutor to your team if possible. <hr> **5** Just using slack, that is all we need. No effort in using other tools was made. <hr> **0** Slack channel not used at all and no record of other communication has been presented. |
+| 5 <hr> Journal Process | **Individual Marks** <hr> **10** Clearly show a history of the progress you are making with your team and a summary of the tools you chose and when they where selected. <hr> **5** One entry in a journal form explaining the progress of the team and shows some sort of plan towards the practical project <hr> **0** No journal supplied. |
+
+<div style="page-break-after: always;"></div>
 
 # Marking Guide:
 
