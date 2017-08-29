@@ -1,16 +1,4 @@
-<style>
-    body {
-        font-size: 12px;
-        font-family: arial;
-    }
-
-    table { 100%}
-
-    table, tr, tgh, td {
-        border: 1px solid #222;
-        border-collapse: collapse;
-    }
-</style>
+<link rel="stylesheets" href="../css/styles.css">
 
 ![Toi Ohomai Logo](../images/toi-logo.jpg)
 

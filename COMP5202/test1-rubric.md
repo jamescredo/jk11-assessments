@@ -1,31 +1,4 @@
-<style>
-    body {
-        font-size: 12px;
-    }
-
-    h1 {
-        font-size: 18px;
-    }
-
-    code {
-        font-size: 9px;
-    }
-
-    .title {
-        font-size: 12px;
-    }
-
-    th {
-        text-align: left;
-        background-color: #ccc;
-    }
-
-    table, th, td {
-        border: 1px solid #222;
-        border-collapse: collapse;
-        font-size: 9px;
-    }
-</style>
+<link rel="stylesheets" href="../css/styles.css">
 
 
 ![Toi Ohomai Logo](../images/toi-logo.jpg)

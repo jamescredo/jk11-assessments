@@ -1,0 +1,38 @@
+body {
+    font-size: 12px;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+code {
+    font-size: 9px;
+}
+
+.title {
+    font-size: 12px;
+}
+
+th {
+    text-align: left;
+    background-color: #ccc;
+}
+
+table, th, td {
+    border: 1px solid #222;
+    border-collapse: collapse;
+    font-size: 9px;
+}
+
+th, td { 
+    width: 20% !important;
+}
+
+td:nth-child(2), th:nth-child(2), th:last-child, td:last-child { 
+    width: 35% !important;
+}
+
+td:nth-child(3), th:nth-child(3), th:last-child, td:last-child { 
+    width: 10% !important;
+}
