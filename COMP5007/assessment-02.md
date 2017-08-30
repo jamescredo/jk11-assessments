@@ -6,7 +6,7 @@
 ## Semester 17B
 
 ## Assessment 2
-## Milestone 1: Friday September 8th 2017 @ 4pm
+## Milestone 1: Monday September 11th 2017 @ 4pm
 ## Milestone 2: Monday September 25th 2017 @ 4pm
 
 ### Submission: Git repository link pasted in Moodle
@@ -46,7 +46,7 @@ There are 2 main resources that you need to look through to get a better underst
 # Milestones
 
 This Assessment has 2 milestones: 
-* Milestone 1: Friday September 8th 2017 @ 4pm
+* Milestone 1: Monday September 11th 2017 @ 4pm
 * Milestone 2: Monday September 25th 2017 @ 4pm
 
 **Milestone 1: Planning Report:**  
@@ -88,13 +88,28 @@ The pages in your project need to be linked to each other.
 | Item <hr> Description | Marks |
 | :---: | --- |
 | |
-| 1 <hr>  Team Roles Allocation | **10** Selected a leader, allocated sections to each person, setup a communication platform and structure. <hr> **5** Selected a leader, not everyone knows what to do, kinda guessing, just using slack, but haven't evaluated any other tools to help with this project. <hr> **0** No leader, no structure, nothing added to Slack |
-| 2 <hr> Collected Resources | **10** Clearly listed a number of resources that you are planning to use during your assessment, they are referenced to the to original content. <hr> **5** Vaguely an idea of what is being used, not at all or some resources are referenced <hr> **0** No resources are set or no references supplied  |  | 
-| 3 <hr> Wireframes | **10** 6 complete wireframes for each of the specified sizes, good detail and can clearly see what the template is going to look like <hr> **5** Up to 3 - 5 complete wireframes or incomplete wireframes <hr> **0** No wireframes or less than 3 supplied |
-| 4 <hr> Tools | **10** Clearly show what tools you are using for your project. List a reason why you chose it and add the tutor to your team if possible. <hr> **5** Just using slack, that is all we need. No effort in using other tools was made. <hr> **0** Slack channel not used at all and no record of other communication has been presented. |
-| 5 <hr> Journal Process | **Individual Marks** <hr> **10** Clearly show a history of the progress you are making with your team and a summary of the tools you chose and when they where selected. <hr> **5** One entry in a journal form explaining the progress of the team and shows some sort of plan towards the practical project <hr> **0** No journal supplied. |
+| 1 <hr>  Team Roles Allocation (10 Marks) | **Individual Marks** <hr> **10** Selected a leader, allocated sections to each person, setup a communication platform and structure. <hr> **5** Selected a leader, not everyone knows what to do, kinda guessing, just using slack, but haven't evaluated any other tools to help with this project. <hr> **0** No leader, no structure, nothing added to Slack |
+| 2 <hr> Collected Resources (20 Marks) | **Individual Marks** <hr> **10** Clearly listed a number of resources that you are planning to use during your assessment, they are referenced to the to original content. <hr> **5** Vaguely an idea of what is being used, not at all or some resources are referenced <hr> **0** No resources are set or no references supplied  |  | 
+| 3 <hr> Wireframes (30 Marks) | **Individual Marks** <hr> **10** 6 complete wireframes for each of the specified sizes, good detail and can clearly see what the template is going to look like <hr> **5** Up to 3 - 5 complete wireframes or incomplete wireframes <hr> **0** No wireframes or less than 3 supplied |
+| 4 <hr> Tools (20 Marks) | **Individual Marks** <hr> **10** Clearly show what tools you are using for your project. List a reason why you chose it and add the tutor to your team if possible. <hr> **5** Just using slack, that is all we need. No effort in using other tools was made. <hr> **0** Slack channel not used at all and no record of other communication has been presented. |
+| 5 <hr> Journal Process (20 Marks) | **Individual Marks** <hr> **10** Clearly show a history of the progress you are making with your team and a summary of the tools you chose and when they where selected. <hr> **5** One entry in a journal form explaining the progress of the team and shows some sort of plan towards the practical project <hr> **0** No journal supplied. |
 
 <div style="page-break-after: always;"></div>
+
+# List of Resources:
+
+> The MVC Framework (ASPNET CORE) <br>
+https://www.youtube.com/playlist?list=PLs5n5nYB22fIqNHp8kHP6dLW5DZYJnWxz
+
+> StartBootstrap <br>
+https://startbootstrap.com
+
+> Use Bootstrap <br>
+https://getbootstrap.com
+
+> Responsive Media <br>
+https://getbootstrap.com/docs/3.3/components/#responsive-embed
+
 
 # Marking Guide:
 
