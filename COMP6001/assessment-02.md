@@ -127,6 +127,17 @@ https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
 | 4 <hr> Tools (20 marks)| **100** Clearly show what tools you are using for your project. List a reason why you chose it and add the tutor to your team if possible. <hr> **50** Just using slack, that is all we need. No effort in using other tools was made. <hr> **0** Slack channel not used at all and no record of other communication has been presented. |
 | 5 <hr> Journal Process (20 marks)| **Individual Marks** <hr> **100** Clearly show a history of the progress you are making with your team and a summary of the tools you chose and when they where selected. <hr> **50** One entry in a journal form explaining the progress of the team and shows some sort of plan towards the practical project <hr> **0** No journal supplied. |
 
+## Milestone 2 - 70%
+
+| Item <hr> Description | Marks |
+| :---: | --- |
+| |
+| 1 <hr>  Can data be updated? (10 marks)| **100** There is an easy intuitive way to update refresh the data in the application, the user gets feedback on the progress. <hr> **50** Data does update, but the user would only know if they know what data to expect. <hr> **0** No way to update the data unless the application has been restarted. |
+| 2 <hr>  Controls easy to access? (20 marks)| **100** Regardless of the platform, it is easy to access the controls that the user needs to work with the application. <hr> **50** All the controls can be found in the application, but the user has to look for them specifically. <hr> **0** Not all the options are build into the application. |
+| 3 <hr>  Nice User Interface (30 marks)| **100** The interface of the application looks nice, good color combination, general layout, are the main items consistent, does the app provide a help section, good feedback to the user when the app crashes or does something unexpected. <hr> **50** Any 3 of the above criteria <hr> **0** None of the above criteria are met. |
+| 4 <hr>  Match the wireframe (20 marks)| **100** The wireframe was a 100% correct when we planned it / Any changes are clearly documented. <hr> **50** The wireframe was part of the production, but not everything matches <hr> **0** No reference to the wireframe was made |
+| 5 <hr>  Any events missing (20 marks)| **100** All the buttons, menu's, combo boxes etc. have a matching and relevant event linked to them. The code clearly shows what event is matched to what object on the UI <hr> **50** Not all the items are linked to something / it is not clear to what code the item is related to. <hr> **0** There is a majority of dead objects in the program. They are there in the app, but don't do anything. |
+
 # How to hand in Submission
 
 **Team Report**
