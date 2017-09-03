@@ -88,11 +88,11 @@ The pages in your project need to be linked to each other.
 | Item <hr> Description | Marks |
 | :---: | --- |
 | |
-| 1 <hr>  Team Roles Allocation (10 Marks) | **Individual Marks** <hr> **10** Selected a leader, allocated sections to each person, setup a communication platform and structure. <hr> **5** Selected a leader, not everyone knows what to do, kinda guessing, just using slack, but haven't evaluated any other tools to help with this project. <hr> **0** No leader, no structure, nothing added to Slack |
-| 2 <hr> Collected Resources (20 Marks) | **Individual Marks** <hr> **10** Clearly listed a number of resources that you are planning to use during your assessment, they are referenced to the to original content. <hr> **5** Vaguely an idea of what is being used, not at all or some resources are referenced <hr> **0** No resources are set or no references supplied  |  | 
-| 3 <hr> Wireframes (30 Marks) | **Individual Marks** <hr> **10** 6 complete wireframes for each of the specified sizes, good detail and can clearly see what the template is going to look like <hr> **5** Up to 3 - 5 complete wireframes or incomplete wireframes <hr> **0** No wireframes or less than 3 supplied |
-| 4 <hr> Tools (20 Marks) | **Individual Marks** <hr> **10** Clearly show what tools you are using for your project. List a reason why you chose it and add the tutor to your team if possible. <hr> **5** Just using slack, that is all we need. No effort in using other tools was made. <hr> **0** Slack channel not used at all and no record of other communication has been presented. |
-| 5 <hr> Journal Process (20 Marks) | **Individual Marks** <hr> **10** Clearly show a history of the progress you are making with your team and a summary of the tools you chose and when they where selected. <hr> **5** One entry in a journal form explaining the progress of the team and shows some sort of plan towards the practical project <hr> **0** No journal supplied. |
+| 1 <hr>  Team Roles Allocation (10 Marks) |**100** Selected a leader, allocated sections to each person, setup a communication platform and structure. <hr> **50** Selected a leader, not everyone knows what to do, kinda guessing, just using slack, but haven't evaluated any other tools to help with this project. <hr> **00** No leader, no structure, nothing added to Slack |
+| 2 <hr> Collected Resources (20 Marks) | **100** Clearly listed a number of resources that you are planning to use during your assessment, they are referenced to the to original content. <hr> **50** Vaguely an idea of what is being used, not at all or some resources are referenced <hr> **00** No resources are set or no references supplied  |  | 
+| 3 <hr> Wireframes (30 Marks) |**100** 6 complete wireframes for each of the specified sizes, good detail and can clearly see what the template is going to look like <hr> **50** Up to 3 - 5 complete wireframes or incomplete wireframes <hr> **00** No wireframes or less than 3 supplied |
+| 4 <hr> Tools (20 Marks) |**100** Clearly show what tools you are using for your project. List a reason why you chose it and add the tutor to your team if possible. <hr> **50** Just using slack, that is all we need. No effort in using other tools was made. <hr> **00** Slack channel not used at all and no record of other communication has been presented. |
+| 5 <hr> Journal Process (20 Marks) | **Individual Marks** <hr> **100** Clearly show a history of the progress you are making with your team and a summary of the tools you chose and when they where selected. <hr> **50** One entry in a journal form explaining the progress of the team and shows some sort of plan towards the practical project <hr> **00** No journal supplied. |
 
 <div style="page-break-after: always;"></div>
 
@@ -115,8 +115,10 @@ https://getbootstrap.com/docs/3.3/components/#responsive-embed
 
 ## Milestone 2 - 70%
 
-| Item <hr> Description | Marks | Marks Allocated | Comments | 
-| :---: | --- | :---: | --- |
-| | | |
-
-TO BE RELEASED LATER
+| Item <hr> Marks | Description |
+| :---: | --- |
+| 1 <hr> Number of Pages setup (10 Marks)| **100** Page are setup and are accessible through the menu bar. This will include setting up your controllers, views and the links in the main template <hr> **50** Page are setup, but are not accessible through the menu bar, however they can be accessed using the URL bar. You still need to setup the controller and the views <hr> **00** The page are not setup and are not accessible using the URL bar. |
+| 2 <hr> Generic theme (20 Marks) | **100** All pages follow the same theme and share the same css files. Code shouldn't be duplicated. <hr> **50** Each page has an separate css file, but code is not duplicated, it is just specific to that view <hr> **00** Code is duplicated on multiple files and the CSS is not taking advantage of templating |
+| 3 <hr> Responsive Media (20 Marks) | **100** Media files (video and images) are responsive and adjust size according to the window size and conform to the page layout | **50** Images are repsonsive, but video files are not. When the layout changes, videos break the viewport frame <hr> **00** No media is responsive at all, images and videos look out of place and do not resize properly |
+| 4 <hr> Links, Images, Tidy code (20 Marks) | **100** All the links, images and other media / files work correctly, check the casing and make sure that all the assets work as expected <hr> **50** Some of the files / media assets work or display <hr> **00** None of the files / media assets work or display |
+|5 <hr> MVC structure (20 Marks) | **100** When looking at the project files, the structure of the project looks clean. It is easy to find the correct files and naming conventions are adhered to. <hr> **50** The project will work and compile fine, but the files are not in the right place, which means it is hard to find them for a 3rd party user <hr> **00** The files are not matching in the structure, the link may point to the right action, but the file is not there or named wrong |
