@@ -40,7 +40,7 @@ As part of making an application, you need to know how to improve on it. For thi
 
 ## Marking Guide 
 
-| Item <hr> Description | Marks |
+| Item <hr> Title (Total Marks) | Description |
 | :---: | --- |
 | |
 | 1 <hr>  Describe the bug(s) and or feature(s) (25 marks)| **100** Clearly describe the bug and feature you are working on in this milestone. They should each be up to 100 words. (not over) <hr> **50** Describe either one bug or one feature or have a description over 100 words. <hr> **0** No information has been supplied or explained / the bug or feature described matches another team mates | 
