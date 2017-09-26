@@ -64,17 +64,20 @@ Rotovegas Airways, a small local airline, has just purchased a computer for its 
 
 You have been asked to develop a prototype of the new system.  This will be developed in three parts.  The first part is to be a program which will replicate the airline staff login system, the second is to replicate the airline seat booking system and the third one is to replicate the staff pay system.
 
+<div style="page-break-after: always;"></div>
+
 ## Question 1: Methods - Airline Login System
 
 You are to write a single webpage to replicate the airline login system.
 
 The initial screen should contain a welcome message and then prompt the user to set up their staff login by entering the following:
+
 * a username (which must be 8 characters long)
 * a password (which must be entered twice i.e. Pwd1 and Pwd2 and both entries must match)
 
 All three of these (the username and two passwords) should be declared as static variables that are accessible by all methods in the program.
 
- The program should contain two static methods as outline below:
+The program should contain two static methods as outline below:
 
 * A ValidateUsername method that checks the username is at least 8 characters long 
 * A ValidatePassword method that checks both password entries match
@@ -83,4 +86,9 @@ Appropriate error messages should be displayed if the username and passwords do 
 
 If all data is correct, the message **“Username and password has been set”** should be displayed.
 
+<div style="page-break-after: always;"></div>
+
+## Question 2: Methods - Airline Login System
+
+You are to write a single webpage to assign seats on each flight of the airline’s only plane (capacity: 10 seats). 
 
