@@ -49,6 +49,7 @@ The assignment needs to be submitted using git. You will submit it using 2 links
 ### NOTE:  This assessment contributes to 50% to your overall grade in COMP.5202
 
 <div style="page-break-after: always;"></div>
+
 # Part A – Object oriented programming
 
 ## Instructions
@@ -88,7 +89,109 @@ If all data is correct, the message **“Username and password has been set”**
 
 <div style="page-break-after: always;"></div>
 
+<<<<<<< HEAD
 ## Question 2: Methods - Airline Login System
 
 You are to write a single webpage to assign seats on each flight of the airline’s only plane (capacity: 10 seats). 
+=======
+## Question 2: One dimensional arrays - Airline Booking System
+
+You are to code a single web page to assign seats on each flight of the airline’s only plane (capacity: 10 seats). 
+
+* If the user enters 1, your program should assign a seat in the first-class section at the front of the plane (seats 1–5) and then tell the user which number seat they have been assigned to.
+
+* If the user enters 2, your program should assign a seat in the economy section at the back of the plane (seats 6–10) and then tell the user which number seat they have been assigned to.
+
+* Use a one-dimensional array of type Boolean to represent the seating status of the 10 seats on the plane. Initialize all the elements of the array to false to indicate that all the seats are empty. 
+
+As each seat is booked, set the corresponding element of the array to true to indicate that the seat is taken and no longer available.  Your program should never assign a seat that has already been assigned. 
+
+Once the user has booked a seat, the program should ask if they want to book another seat, if they enter a ‘Y’ the program will loop letting them book further seats, and continue looping until they enter an ‘N’, they have no more bookings for that flight, then the program will close.
+
+**EXTENSION:**  When the economy section is full, your program should inform the user and ask them if they would consider a seat in the first-class section instead (and vice versa). If they respond with a ‘Y’, make the appropriate seat assignment. If ‘N’, then display the message "The next flight leaves in 3 hours.
+
+<div style="page-break-after: always;"></div>
+
+## Question 3: Classes - Employee Class
+
+You are to write a console application to replicate the Employee pay system for Rotovegas Airways.  
+
+In this program you are to add and code a class called Employee 
+The class will include:
+* **Three instance variables;** first name (type string), last name (type string) and salary (decimal). 
+* **Three set methods**, one for each of the instance variables listed above. 
+* A **displayEmployee** method which will display all of the employee’s information.
+
+In the Main method of the program you are to:
+* Create an object of the Employee class
+* Display a welcome message 
+* Prompt the user to input their first name, last name and annual salary (passing these to each of the set methods) 
+* Using the displayEmployee method, display all of the employee’s information to the console screen. 
+
+<div style="page-break-after: always;"></div>
+
+# Part B - UPGRADE THE TEMPERATURE APP
+
+* Read the scenario and program specifications for PART B below.
+* Create a Single Web Page in Visual Studio Code, based the specifications outlined, determine the layout of the form and the objects or controls required on it. 
+* Ensure that you document (or comment) your code thoroughly (include a description of the program, the name of the developer and the version) and name your objects and variables effectively.
+* Draw up a Flow diagram for this program. Create this in Draw.io and add it to your repository.
+* **Draw up a Test Plan, which tests at least 3 scenarios. Create this in either word or PowerPoint.  Make sure that it is included in the zip file you submit with your project.**
+
+**Program Specifications:**
+
+For this part of the assignment you are to redevelop your temperature conversion program you did in the test (see test instructions over the page) but this time create it as a Single Web Site, using textboxes for your input and output. 
+
+* Use labels appropriately so it is clear what each textbox is for
+* Change the properties of any textboxes that are not for input to be read only and not have a tab stop.  
+* Use a button click event to trigger the calculation.  
+* Display the name of the program in a `h1` tag centered above the form.
+
+<div style="page-break-after: always;"></div>
+
+# WARNING
+It is your responsibility to ensure that the correct source file is submitted, with the correct filename, and that it compiles without errors in a Toi Ohomai computer laboratory. 
+
+Failure to meet any of these requirements may mean that you lose marks for the operation of your program.  
+
+The assignment must be a product of your own work except for use of resources supplied with the course, discussions conducted by the lecturer during class time, and other assistance shown as acceptable in the section Assistance to Other Students.
+
+NOTE:  Your lecturer may use an oral examination to test your understanding of the material submitted.  
+
+---
+
+## Assistance to other Students
+
+Students themselves can be an excellent resource to assist the learning of fellow students, but there are issues that arise in assessments that relate to the type and amount of assistance given by students to other students.   It is important to recognise what types of assistance are beneficial to another’s learning and also what types of assistance are unacceptable in an assessment.
+
+<div style="page-break-after: always;"></div>
+
+## Beneficial Assistance
+* Study Groups.
+* Discussion.
+* Sharing reading material.
+* Testing another student’s programming work using the executable code and giving them the results of that testing.
+
+## Unacceptable Assistance
+* Working together on one copy of the assessment and submitting it as own work.
+* Giving another student your work.
+* Copying someone else’s work. This includes work done by someone not on the course.
+* Changing or correcting another student’s work.  
+* Copying from books, Internet etc. and submitting it as own work.  Anything taken directly from another source must be acknowledged correctly: Show the source alongside the quotation.
+
+<div style="page-break-after: always;"></div>
+
+# Deliverables:
+
+* You are to hand in 4 git repository links with the following titles:
+
+    * studentid_partA_part_1
+    * studentid_partA_part_2
+    * studentid_partA_part_3
+    * studentid_partB
+
+**PLEASE FOLLOW THIS FORMAT SO IT IS EASY TO SEE WHO BELONGS TO WHAT PROJECT**
+
+You are to submit all 4 repository links on moodle.
+>>>>>>> 885e446cba64acfe5f6a492027650f553931f7d3
 
