@@ -61,8 +61,8 @@ Note that if you Google doc is not shared, or accessible to me, you will loose 1
 * [TEAM 01](https://github.com/RavSS/COMP5007-Assessment-2.git) => https://github.com/RavSS/COMP5007-Assessment-2.git
 * [TEAM 02](https://github.com/marisawadsworth/assesment2) => https://github.com/marisawadsworth/assesment2
 * [TEAM 03](https://bitbucket.org/niggasinthebay/assignment2.git) => https://bitbucket.org/niggasinthebay/assignment2.git
-* [TEAM 04](https://github.com/nathan-johnson-nz/c5007-gr06.git) => https://github.com/nathan-johnson-nz/c5007-gr06.git
-* [TEAM 05](https://bitbucket.org/IanMcIntosh/team.git) => https://bitbucket.org/IanMcIntosh/team.git
+* [TEAM 04](https://bitbucket.org/IanMcIntosh/team.git) => https://bitbucket.org/IanMcIntosh/team.git
+* [TEAM 05](https://github.com/nathan-johnson-nz/c5007-gr06.git) => https://github.com/nathan-johnson-nz/c5007-gr06.git
 * [TEAM 06](https://bitbucket.org/bingitmilestone2/) => https://bitbucket.org/bingitmilestone2/
 * [TEAM 07](https://github.com/willsnook/Assessment-2---Bootstrap-MVC-Template---UR) => https://github.com/willsnook/Assessment-2---Bootstrap-MVC-Template---UR
 * [TEAM 08](https://github.com/wadd1er/assessment2-group2.git) => https://github.com/wadd1er/assessment2-group2.git
