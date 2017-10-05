@@ -89,11 +89,6 @@ If all data is correct, the message **“Username and password has been set”**
 
 <div style="page-break-after: always;"></div>
 
-<<<<<<< HEAD
-## Question 2: Methods - Airline Login System
-
-You are to write a single webpage to assign seats on each flight of the airline’s only plane (capacity: 10 seats). 
-=======
 ## Question 2: One dimensional arrays - Airline Booking System
 
 You are to code a single web page to assign seats on each flight of the airline’s only plane (capacity: 10 seats). 

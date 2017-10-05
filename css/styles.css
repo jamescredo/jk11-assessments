@@ -38,11 +38,11 @@ th {
 }
 
 th, td { 
-    width: 50% !important;
+    width: 25% !important;
 }
 
 th:last-child, td:last-child { 
-    width: 50% !important;
+    width: 5% !important;
 }
 
 img {
